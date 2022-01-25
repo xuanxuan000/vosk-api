@@ -39,6 +39,11 @@ python/test/ref
 python/test/result.txt
 python/test/wav.scp
 
+python/example/model
+python/example/build
+python/example/dist
+python/example/*.wav
+
 # Java
 *.class
 java/lib/model
